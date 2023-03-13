@@ -1,0 +1,11 @@
+
+u
+java:S1104"SMake API_URL a static final constant or non-public and provide accessors if needed.(–¹­‡üÿÿÿÿ8ª±ßí0
+O
+java:S1444"-Make this "public static API_URL" field final(–¹­‡üÿÿÿÿ8¹±ßí0
+t
+java:S3008"RRename this field "API_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¹­‡üÿÿÿÿ8ñ·ûŞí0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÉÙ¼8àò­ßí0
+\secrets:S6336"<Make sure this Alibaba Cloud Access Key ID is not disclosed.(ìÀ¹Ş8ø·ûŞí0
+`secrets:S6336"@Make sure this Alibaba Cloud Access Key Secret is not disclosed.(Ùøûò8ø·ûŞí0
