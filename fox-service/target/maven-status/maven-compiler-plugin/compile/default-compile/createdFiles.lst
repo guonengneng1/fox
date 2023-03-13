@@ -1,0 +1,4 @@
+com\swan\fox\service\SpringApplication.class
+com\swan\fox\service\constant\FoxConstant.class
+com\swan\fox\service\service\chatGPTImpl\ChatGPTControllerImpl.class
+com\swan\fox\service\service\Test.class

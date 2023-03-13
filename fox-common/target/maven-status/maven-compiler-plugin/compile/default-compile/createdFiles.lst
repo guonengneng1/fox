@@ -1,0 +1,4 @@
+com\swan\fox\common\filter\LogFilter.class
+com\swan\fox\common\response\CompletionResponse.class
+com\swan\fox\common\response\FoxResponse.class
+com\swan\fox\common\response\CompletionResponse$Choice.class

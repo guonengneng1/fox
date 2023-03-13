@@ -1,0 +1,4 @@
+com\swan\fox\api\APIConstant.class
+com\swan\fox\api\vo\chatGPT\CompletionsVO.class
+com\swan\fox\api\controller\chatGPT\ChatGptController.class
+com\swan\fox\api\controller\Test.class
