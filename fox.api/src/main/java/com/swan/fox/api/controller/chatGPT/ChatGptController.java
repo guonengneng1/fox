@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.validation.Valid;
 
+
 @RequestMapping(value = APIConstant.URL_PREFIX)
 @RestController
 public interface ChatGptController {
